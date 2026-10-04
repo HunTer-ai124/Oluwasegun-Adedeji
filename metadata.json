@@ -1,0 +1,7 @@
+{
+  "name": "InsightLab - AI-Powered Data Analytics",
+  "description": "Upload datasets, define business objectives, and unlock instant SQL analysis, interactive dashboards, and conversational AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
